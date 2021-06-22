@@ -1,0 +1,5 @@
+C:\Users\jaque\source\repos\UI\UI\bin\Debug\UI.dll
+C:\Users\jaque\source\repos\UI\UI\bin\Debug\UI.pdb
+C:\Users\jaque\source\repos\UI\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\jaque\source\repos\UI\UI\obj\Debug\UI.dll
+C:\Users\jaque\source\repos\UI\UI\obj\Debug\UI.pdb
